@@ -1,0 +1,4 @@
+
+version 1.0 patch 1
+	fixed point buffer clear bug
+	fixed directory with spaces
